@@ -9,6 +9,8 @@ public class CoreJavaDemos {
 		// TODO Auto-generated method stub
 		System.out.println("git test success");
 		System.out.println("second change");
+		System.out.println("third change");
+
 	}
 
 }
