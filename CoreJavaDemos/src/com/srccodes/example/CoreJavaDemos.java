@@ -8,7 +8,7 @@ public class CoreJavaDemos {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("git test success");
-
+		System.out.println("second change");
 	}
 
 }
