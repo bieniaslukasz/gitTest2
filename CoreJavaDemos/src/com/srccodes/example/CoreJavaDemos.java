@@ -11,6 +11,8 @@ public class CoreJavaDemos {
 		System.out.println("second change");
 		System.out.println("third change");
 		System.out.println("console change");
+		System.out.println("console second change");
+
 
 
 	}
